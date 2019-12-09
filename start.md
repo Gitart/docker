@@ -1,12 +1,5 @@
 # Экосистема Docker: обнаружение сервисов и распределенные хранилища конфигурации
 
-Опубликовано 1 февраля 2015 г. 47.5k views [Scaling](https://www.digitalocean.com/community/tags/scaling?type=tutorials) [Docker](https://www.digitalocean.com/community/tags/docker?type=tutorials) [Концептуальная](https://www.digitalocean.com/community/tags/conceptual?type=tutorials) [кластеризация](https://www.digitalocean.com/community/tags/clustering?type=tutorials)
-
-*    [![jellingwood](https://secure.gravatar.com/avatar/60d901f61a6146e14a3e989bc1f4ef11?secure=true&d=identicon)](https://www.digitalocean.com/community/users/jellingwood)
-*   По [Джастин Эллингвуд](https://www.digitalocean.com/community/users/jellingwood)
-
-    [Стать автором](https://www.digitalocean.com/community/write-for-digitalocean)
-
 ### Введение
 
 Контейнеры обеспечивают элегантное решение для тех, кто хочет разрабатывать и развертывать приложения в масштабе. В то время как Docker предоставляет технологию создания контейнеров, многие другие проекты помогают в разработке инструментов, необходимых для соответствующей начальной загрузки и связи в среде развертывания.
